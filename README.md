@@ -29,5 +29,3 @@ The following mods have been tested without issue (screenshots include some of t
 - Duel Weld - https://steamcommunity.com/sharedfiles/filedetails/?id=1628211313
 - Squad UI Tweaks - https://steamcommunity.com/sharedfiles/filedetails/?id=1455382219
 
-Known Issues:
--
