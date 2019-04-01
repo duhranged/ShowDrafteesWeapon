@@ -1,7 +1,7 @@
 # ShowDrafteesWeapon
 RimWorld mod to show a drafted colonist's weapon in the Colonist Bar.
 
-    Shows a pawn's weapon icon on the colonist bar.
+Shows a pawn's weapon icon on the colonist bar.
 
     When a pawn has been drafted their equipped weapon icon will display under the pawn's avatar on the colonist banner. New mod settings have been added to allow weapons to be shown regardless of a pawn's drafted status and while they are traveling. The settings can be accessed via... Options > Mod Settings > Show Draftee's Weapon.
 
