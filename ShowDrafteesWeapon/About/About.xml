@@ -6,39 +6,40 @@
   </supportedVersions>
   <author>targhetti</author>
   <url>https://github.com/duhranged/ShowDrafteesWeapon</url>
-  <description>
-    Shows a pawn's weapon icon on the colonist bar.
+  <description>Shows a pawn's weapon icon on the colonist bar.
 
-    When a pawn has been drafted their equipped weapon icon will display under the pawn's avatar on the colonist banner. New mod settings have been added to allow weapons to be shown regardless of a pawn's drafted status and while they are traveling. The settings can be accessed via... Options > Mod Settings > Show Draftee's Weapon.
+When a pawn has been drafted their equipped weapon icon will display under the pawn's avatar on the colonist banner. New mod settings have been added to allow weapons to be shown regardless of a pawn's drafted status and while they are traveling. The settings can be accessed via... Options &gt; Mod Settings &gt; Show Draftee's Weapon.
 
-    Settings:
-    - Show When Not Drafted - When checked weapons will display regardless of the pawn's drafted status.
-    - Show When Traveling - When checked weapons will display when pawns are traveling, and their drafted status meets the Show When Not Drafted setting.
+Settings:
+- Show When Not Drafted - When checked weapons will display regardless of the pawn's drafted status.
+- Show When Traveling - When checked weapons will display when pawns are traveling, and their drafted status meets the Show When Not Drafted setting.
 
-    Compatibility:
-    - Will work with existing saves
-    - Can be enabled/disabled without issue
-    - This mod should be compatible with mods that don't change the Colonist Bar. That said, it's been designed to be unobtrusive and as such will most likely work with other Colonist Bar mods provided this mod is set to load after the other mod(s).
+Compatibility:
+- Will work with existing saves
+- Can be enabled/disabled without issue
+- This mod should be compatible with mods that don't change the Colonist Bar. That said, it's been designed to be unobtrusive and as such will most likely work with other Colonist Bar mods provided this mod is set to load after the other mod(s).
 
-    Latest Updates/Fixes:
-    - Correctly display beer and wood log icons, when they are equiped as weapons.
-    - Correctly set weapon transparency when message's intersect with the Colonist Bar.
-    - Added Mod Extension properties via Patch files:
-        weaponBarAngleOffset - control a weapon's draw angle on the Colonist Bar.
-        drawInWeaponBar - control if a weapon is excluded from drawing on the Colonist Bar.
+Latest Updates/Fixes:
+- Correctly display beer and wood log icons, when they are equipped as weapons.
+- Correctly set weapon transparency when message's intersect with the Colonist Bar.
+- Added Mod Extension properties via Patch files:
+weaponBarAngleOffset - control a weapon's draw angle on the Colonist Bar.
+excludeFromDrawing - controls if a weapon is drawn on the Colonist Bar.
+- Fixed issue where certain weapons were not drawn in the correct position when the UI Scaling option was not set to 1. It should work with other UI Scale settings now, but I am only able to test with the 1 and 1.25 options.
 
-    The following mods have been tested without issue (screenshots include some of these mods):
+The following mods have been tested without issue (screenshots include some of these mods):
 
-    - Color Coded Mood Bar - https://steamcommunity.com/sharedfiles/filedetails/?id=1501832876
-    - HandyUI - Fast Colonist Info - https://steamcommunity.com/sharedfiles/filedetails/?id=1653465834
-    - Vanilla Weapons Retextured - https://steamcommunity.com/sharedfiles/filedetails/?id=1685182223
-    - Duel Weld - https://steamcommunity.com/sharedfiles/filedetails/?id=1628211313
-    - Squad UI Tweaks - https://steamcommunity.com/sharedfiles/filedetails/?id=1455382219
+- Color Coded Mood Bar - https://steamcommunity.com/sharedfiles/filedetails/?id=1501832876
+- HandyUI - Fast Colonist Info - https://steamcommunity.com/sharedfiles/filedetails/?id=1653465834
+- Vanilla Weapons Retextured - https://steamcommunity.com/sharedfiles/filedetails/?id=1685182223
+- Duel Weld - https://steamcommunity.com/sharedfiles/filedetails/?id=1628211313
+- Squad UI Tweaks - https://steamcommunity.com/sharedfiles/filedetails/?id=1455382219
 
-    Known Issues:
-    -
+Known Issues:
+-
 
-    GitHub:
+GitHub:
+https://github.com/duhranged/ShowDrafteesWeapon
     https://github.com/duhranged/ShowDrafteesWeapon
   </description>
 </ModMetaData>
