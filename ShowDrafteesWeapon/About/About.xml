@@ -9,20 +9,7 @@
   <author>targhetti</author>
   <url>https://github.com/duhranged/ShowDrafteesWeapon</url>
   <description>Shows a pawn's weapon icon on the colonist bar.
-
-  - - - - - - - - - - - - - - - - - 
-** Updated to support Rim World version 1.1 (unstable release) **
-
-The mod now supports versions 1.0 and 1.1.
-
-Version 1.0 should continue to work as it has, without issues.
-
-Version 1.1 as had limited testing and appears to work without issues. That said, Rim World version 1.1 is defined as unstable and there are no guarantees version 1.1 of this mod will work 100% with Rim World or other mods.
-
-Any issues discovered with version 1.1 of this mod will be remedied once Rim World's 1.1 is released as a stable version.
-
-  - - - - - - - - - - - - - - - - - 
-
+    
 When a pawn has been drafted their equipped weapon icon will display under the pawn's avatar on the colonist banner. New mod settings have been added to allow weapons to be shown regardless of a pawn's drafted status and while they are traveling. The settings can be accessed via... Options &gt; Mod Settings &gt; Show Draftee's Weapon.
 
 Settings:
