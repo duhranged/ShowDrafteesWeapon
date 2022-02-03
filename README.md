@@ -8,7 +8,7 @@ Settings:
 - Show When Traveling - When checked weapons display when pawns are traveling, and their drafted status meets the Show When Not Drafted setting.
 
 Compatibility:
-- Will work with existing saves
+- Should work with existing saves, but this will also depend on other mods in use.
 - Can be enabled/disabled without issue
 - This mod should be compatible with mods that don't change the Colonist Bar. That said, if you run into issues try changing this mod's load position to be before/after other mods.
 
