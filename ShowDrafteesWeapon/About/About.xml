@@ -1,10 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <packageId>targhetti.ShowDrafteesWeapon</packageId>
   <name>Show Draftees Weapon</name>
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -16,35 +17,25 @@
   </modDependencies>
   <author>targhetti</author>
   <url>https://github.com/duhranged/ShowDrafteesWeapon</url>
-  <description>Shows a pawn's weapon icon on the colonist bar.
+  <description>
+    Shows a pawn's weapon icon on the colonist bar.
 
-When a pawn has been drafted their equipped weapon icon will display under the pawn's avatar on the colonist banner. New mod settings have been added to allow weapons to be shown regardless of a pawn's drafted status and while they are traveling. The settings can be accessed via... Options &gt; Mod Settings &gt; Show Draftee's Weapon.
+    When a pawn has been drafted their equipped weapon icon will display under the pawn's avatar on the colonist banner.
 
-Settings:
-- Show When Not Drafted - When checked weapons display regardless of the pawn's drafted status.
-- Show When Traveling - When checked weapons display when pawns are traveling, and their drafted status meets the Show When Not Drafted setting.
+    Settings:
+    (The settings can be accessed via... Options &gt; Mod Settings &gt; Show Draftee's Weapon)
+    - Show When Not Drafted - When checked weapons display regardless of the pawn's drafted status.
+    - Show When Traveling - When checked weapons display when pawns are traveling, and their drafted status meets the Show When Not Drafted setting.
 
-Compatibility:
-- Will work with existing saves
-- Can be enabled/disabled without issue
-- This mod should be compatible with mods that don't change the Colonist Bar. That said, it's been designed to be unobtrusive and as such will most likely work with other Colonist Bar mods provided this mod is set to load after the other mod(s).
+    Compatibility:
+    - Will work with existing saves
+    - Can be enabled/disabled without issue
+    - This mod should be compatible with mods that don't change the Colonist Bar. That said, if you run into issues try loading this mod before/after other Colonist Bar related mods.
 
-The following mods have been tested without issue (screenshots include some of these mods):
+    Change Log:
+    https://steamcommunity.com/sharedfiles/filedetails/changelog/1690978457
 
-- Color Coded Mood Bar - https://steamcommunity.com/sharedfiles/filedetails/?id=1501832876
-- HandyUI - Fast Colonist Info - https://steamcommunity.com/sharedfiles/filedetails/?id=1653465834
-- Vanilla Weapons Retextured - https://steamcommunity.com/sharedfiles/filedetails/?id=1685182223
-- Duel Weld - https://steamcommunity.com/sharedfiles/filedetails/?id=1628211313
-- Squad UI Tweaks - https://steamcommunity.com/sharedfiles/filedetails/?id=1455382219
-- Pawn Badge - https://steamcommunity.com/sharedfiles/filedetails/?id=1696834823
-
-Known Issues:
-- Is not compatible with the Colonist Bar KF mod - https://steamcommunity.com/sharedfiles/filedetails/?id=729908976
-
-Change Log:
-https://steamcommunity.com/sharedfiles/filedetails/changelog/1690978457
-
-GitHub:
-https://github.com/duhranged/ShowDrafteesWeapon
+    GitHub:
+    https://github.com/duhranged/ShowDrafteesWeapon
   </description>
 </ModMetaData>
